@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto </h1>
 
   <h2> Sobre</h2>
-
+Projeto produzido através do curso de lógica de programação da Alura.
   ## Tecnologias
 
   <div>
